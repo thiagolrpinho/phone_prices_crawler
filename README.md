@@ -1,10 +1,10 @@
 # About
 
-### Author
+## Author
 
 [Thiago Luis Rodrigues Pinho](https://github.com/thiagolrpinho)
 
-### Collaborators
+## Collaborators
 
 [Gabriel Vasconcelos](https://github.com/gcvasconcelos)
 
@@ -22,14 +22,14 @@
 
 [Vinicius Souza](https://github.com/vgdsouza)
 
-### Start Date
+## Start Date
 
     17/04/2020
 
-### Objectives
+## Objectives
 
     Develop a web crawler to find smartphones for sale and estimate their
     prices based on the prices found. Then estimate appropriate prices 
     ranges for each model.
 
-### Summary
+## Summary
