@@ -33,3 +33,11 @@
     ranges for each model.
 
 ## Summary
+
+     1. Loading Devices Names
+         1.1 Cleaning Duplicates and Missing Values
+     2. Searching for Prices
+         2.1 Treating Data
+     3. Analysing Prices
+         3.1 Prices Distribution
+         3.2 Prices Binning
