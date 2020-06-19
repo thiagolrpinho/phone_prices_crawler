@@ -167,10 +167,6 @@ class DevicesPriceRangesFlow(FlowSpec):
         device_extracted_data_df['url'] = device_extracted_data_df[
             'url'].str.upper()
         devices_df['url'] = devices_df['url'].str.upper()
-        self.devices_df.to_csv(
-            join_relative_folder_path("careca_pai.csv"), index=False)
-        device_extracted_data_df.to_csv(
-            join_relative_folder_path("pai_careca.csv"), index=False)
         self.extracted_data_df = device_extracted_data_df.merge(
             right=devices_df,
             left_on='url',
