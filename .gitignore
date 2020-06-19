@@ -126,4 +126,6 @@ dmypy.json
 # Data Related Filters
 data/*
 
+# Metaflow related files
+.metaflow/*
 !.gitkeep
