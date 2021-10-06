@@ -2,5 +2,5 @@ pandas==0.25.1
 numpy==1.17.2
 lxml==4.4.1
 metaflow==2.0.5
-scrapy==2.1.0
+scrapy==2.5.1
 Twisted==20.3.0
