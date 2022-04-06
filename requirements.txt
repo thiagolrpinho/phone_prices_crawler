@@ -3,4 +3,4 @@ numpy==1.17.2
 lxml==4.4.1
 metaflow==2.0.5
 scrapy==2.1.0
-Twisted==20.3.0
+Twisted==22.2.0
